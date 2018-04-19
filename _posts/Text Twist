@@ -1,0 +1,17 @@
+ ---
+layout:     post
+title:      Text Twist
+subtitle:   A project for simple game text twist
+date:       2017
+author:     Qinxin
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - HTML
+    - CSS
+    - LAMP stack
+---
+
+[**Text Twist**](https://qxzhang1994.github.io/text-twist/)
+This is a word game which give you 7 randow letter and you should use them to create word then check it with my database, if there,you get points. 
+I established this project with LAMP stack based on HTML, Javascript. 
