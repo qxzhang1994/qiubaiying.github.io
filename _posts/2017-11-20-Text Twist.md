@@ -2,7 +2,7 @@
 layout:     post
 title:      Text Twist 
 subtitle:   this is a simple game
-date:       2017
+date:       2017-11-20
 author:     QX
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
