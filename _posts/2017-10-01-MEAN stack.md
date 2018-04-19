@@ -2,7 +2,7 @@
 layout:     post
 title:      MEAN stak login system
 subtitle:   a web system
-date:       2017
+date:       2017-10-01
 author:     QX
 header-img: img/post-bg-universe.jpg
 catalog: true
