@@ -12,17 +12,14 @@ tags:
     - Git
 ---
 
->随便整理的一些自用的Git指令
+>This is a simple game
 
 
-# GitHub创建仓库提示代码
+# SKILLS
 
-	echo "# 项目名" >> README.md
-	git init
-	git add README.md
-	git commit -m "first commit"
-	git remote add origin git@github.com:qiubaiying/项目名.git
-	git push -u origin master
+	LAMP stack(Linux, Apache, MySQL, PHP)
+	Basic Javascript
+	AJAX requests
 
 若仓库存在直接push
 
