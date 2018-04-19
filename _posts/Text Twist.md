@@ -15,11 +15,12 @@ tags:
 >This is a simple game
 
 
-# SKILLS
-
+# Skills
 	LAMP stack(Linux, Apache, MySQL, PHP)
 	Basic Javascript
 	AJAX requests
+# About
+This is a word game which give you 7 randow letter and you should use them to create word then check it with my database, if there,you get points. We established this project with LAMP stack based on HTML, Javascript.
 
 # github code
 [here](https://qxzhang1994.github.io/text-twist/)
