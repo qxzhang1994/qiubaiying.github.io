@@ -23,6 +23,6 @@ tags:
 This is a word game which give you 7 randow letter and you should use them to create word then check it with my database, if there,you get points. We established this project with LAMP stack based on HTML, Javascript.
 
 # github code
-[here](https://qxzhang1994.github.io/text-twist/)
+view in github[here](https://github.com/qxzhang1994/text-twist)
 	
 
