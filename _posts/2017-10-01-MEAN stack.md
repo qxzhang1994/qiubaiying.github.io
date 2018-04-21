@@ -14,4 +14,4 @@ MEAN stack
 # About 
 This is a simple web app with major functions: register, login and change password. Besides, it also shows the user all previous login times after successful login. Allow registration in two ways: password and at OAuth service github. I established this project with MEAN stack. 
 # github
-[here](https://qxzhang1994.github.io/loginSystem/)
+view in github [here](https://github.com/qxzhang1994/loginSystem)
