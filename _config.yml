@@ -59,7 +59,7 @@ disqus_username: qinxinzhang
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false   #是否开启Gitalk评论
   clientID: 98dbec432df1c8207ef1b                           #生成的clientID
   clientSecret: 2788c1cc6e7079c32f95028873b981702b0f2663    #生成的clientSecret
   repo: qxzhang1994.github.io    #仓库名称
