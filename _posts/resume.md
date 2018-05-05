@@ -14,4 +14,4 @@ android studio
 # About 
 This is a application in android phone, in which you can edit your resume in phone 
 # github
-view in github [here](https://github.com/qxzhang1994/loginSystem)
+view in github [here](https://github.com/qxzhang1994/Mini-Linkedin)
