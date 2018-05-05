@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:     Text Twist 
+title:    Text Twist 
 subtitle:   this is a simple game
 date:       2017-11-20
 author:     QX
